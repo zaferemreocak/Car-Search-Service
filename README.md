@@ -1,6 +1,6 @@
 # Car Search Service
 
-Lite Spring Boot based project to implement dependency injection and create a standalone Java JAR application with 3 REST services.
+A light-weight Spring-Boot based project to implement dependency injection and create a standalone Java JAR application with 3 REST services.
 Utilized this useful resource for the project : https://medium.com/edureka/what-is-dependency-injection-5006b53af782
 
 ### REST Services
